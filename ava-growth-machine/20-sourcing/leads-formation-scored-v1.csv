@@ -1,0 +1,52 @@
+nom_entreprise,type_etablissement,ville,adresse,telephone,email,site_web,note_google,nb_avis_google,contact_nom,contact_titre,linkedin_url,score,pitch_angle,sequence_email,statut_pipeline,date_scraping,source
+EDHEC Business School (Paris),ecole_commerce,Paris,"16/18 rue du 4 Septembre, 75002 Paris",,,[email],https://www.edhec.edu,4.2,180,,,85,appels_inscription_rush,prioritaire,2026-02-23,web_search
+ISG International Business School,ecole_commerce,Paris,"8 rue de Lota, 75016 Paris",,,[email],https://www.isg.fr,3.9,120,,,80,appels_inscription_rush,prioritaire,2026-02-23,web_search
+ESSCA Paris,ecole_commerce,Boulogne-Billancourt,"55 quai Alphonse le Gallo, 92513",,,[email],https://www.essca.fr,4.1,95,,,82,appels_parents_horaires,prioritaire,2026-02-23,web_search
+ESG Paris,ecole_commerce,Paris,"25 rue Saint-Ambroise, 75011 Paris",,,[email],https://www.esg.fr,3.8,250,,,78,volume_appels_concurrent,standard,2026-02-23,web_search
+EIML Paris,ecole_commerce,Paris,"35 quai Andre Citroen, 75015 Paris",,,[email],https://www.eiml-paris.fr,4.0,60,,,75,appels_inscription_rush,standard,2026-02-23,web_search
+EMlyon Business School,ecole_commerce,Lyon,"23 avenue Guy de Collongue, 69134 Ecully",,,[email],https://em-lyon.com,4.3,200,,,88,appels_inscription_rush,prioritaire,2026-02-23,web_search
+ESDES Lyon,ecole_commerce,Lyon,"10 place des Archives, 69002 Lyon",,,[email],https://www.esdes.fr,4.1,85,,,82,appels_parents_horaires,prioritaire,2026-02-23,web_search
+INSEEC Lyon,ecole_commerce,Lyon,"25 rue de l'Universite, 69007 Lyon",,,[email],https://www.inseec.com,3.7,150,,,76,volume_appels_concurrent,standard,2026-02-23,web_search
+ESG Lyon,ecole_commerce,Lyon,"53 cours Albert Thomas, 69003 Lyon",,,[email],https://www.esg.fr/lyon,3.9,110,,,77,appels_inscription_rush,standard,2026-02-23,web_search
+IDRAC Lyon,ecole_commerce,Lyon,"47 rue Sergent Michel Berthet, 69009 Lyon",,,[email],https://www.idrac-business-school.com,3.8,90,,,75,appels_parents_horaires,standard,2026-02-23,web_search
+CFORPRO,centre_formation_cpf,Paris,"33 rue de Mogador, 75009 Paris",,,[email],https://www.cforpro.com,4.2,45,,,88,prospects_cpf_messagerie,prioritaire,2026-02-23,web_search
+Ziggourat Formation,centre_formation_cpf,Paris,"32 rue de Paradis, 75010 Paris",,,[email],https://www.ziggourat.com,4.5,120,,,92,prospects_cpf_messagerie,prioritaire,2026-02-23,web_search
+Centre Formation Competences,centre_formation_cpf,Paris,"40 rue Alexandre Dumas, 75011 Paris",,,[email],https://www.cfc-formation.fr,4.0,30,,,80,formateurs_en_session,prioritaire,2026-02-23,web_search
+Compagnie Parcours Formation CPF,centre_formation_cpf,Paris,"10 rue du Colisee, 75008 Paris",,,[email],,3.8,25,,,78,prospects_cpf_messagerie,standard,2026-02-23,web_search
+CFPCO Paris,centre_formation_cpf,Paris,"11 rue de la Vistule, 75013 Paris",,,[email],,4.1,35,,,76,formateurs_en_session,standard,2026-02-23,web_search
+ESUP Paris,bts_prepa,Paris,"51 boulevard de Grenelle, 75015 Paris",,,[email],https://www.esup.fr,4.3,85,,,86,appels_parents_cours,prioritaire,2026-02-23,web_search
+EPB Paris,bts_prepa,Paris,"13 rue Niepce, 75014 Paris",,,[email],https://www.epb.paris,4.1,60,,,82,appels_parents_cours,prioritaire,2026-02-23,web_search
+ESARC Paris,bts_prepa,Paris,"25 rue Saint-Ambroise, 75011 Paris",,,[email],https://www.esarc-evolution.fr,4.0,110,,,80,appels_parents_cours,prioritaire,2026-02-23,web_search
+CFA SACEF,bts_prepa,Paris,"3 passage des Petites Ecuries, 75010 Paris",,,[email],https://www.sacef.fr,4.4,70,,,85,candidats_alternance_soir,prioritaire,2026-02-23,web_search
+Aurlom Paris,bts_prepa,Paris,"16 passage de la Main d'Or, 75011 Paris",,,[email],https://www.aurlom.com,4.2,55,,,78,appels_parents_cours,standard,2026-02-23,web_search
+EO Paris (Ecole Osteopathie Paris),ecole_sante,Paris,"6 allee de la 2eme Division Blindee, 75015 Paris",,,[email],https://www.ecole-osteopathie-paris.fr,4.0,90,,,88,candidats_sante_appels_multiples,prioritaire,2026-02-23,web_search
+EFOM Boris Dolto,ecole_sante,Paris,"118 bis rue de Javel, 75015 Paris",,,[email],https://www.efom.fr,4.2,65,,,85,candidats_sante_appels_multiples,prioritaire,2026-02-23,web_search
+CSO Nanterre,ecole_sante,Nanterre,"91 avenue Francois Arago, 92000 Nanterre",,,[email],https://www.osteo.fr,3.9,50,,,80,candidats_sante_appels_multiples,prioritaire,2026-02-23,web_search
+ESO Suposteo,ecole_sante,Champs-sur-Marne,"8 rue Alfred Nobel, 77420 Champs-sur-Marne",,,[email],https://www.eso-suposteo.fr,4.1,75,,,82,candidats_sante_appels_multiples,prioritaire,2026-02-23,web_search
+OsteoBio Cachan,ecole_sante,Cachan,"19 rue de la Gare, 94230 Cachan",,,[email],https://www.osteobio.net,3.8,55,,,78,candidats_sante_appels_multiples,standard,2026-02-23,web_search
+Holistea Cergy,ecole_sante,Cergy,"46 avenue des Genottes, 95892 Cergy",,,[email],https://www.holistea.fr,4.0,40,,,76,candidats_sante_appels_multiples,standard,2026-02-23,web_search
+ISOsteo Lyon,ecole_sante,Ecully,"13 chemin du Petit Bois, 69130 Ecully",,,[email],https://www.isosteo.fr,4.3,100,,,90,candidats_sante_appels_multiples,prioritaire,2026-02-23,web_search
+CEESO Lyon,ecole_sante,Lyon,"39 rue Pasteur, 69007 Lyon",,,[email],https://www.ceesolyon.com,4.1,60,,,84,candidats_sante_appels_multiples,prioritaire,2026-02-23,web_search
+ATSA Lyon,ecole_sante,Limonest,"280 allee des Hetres, 69760 Limonest",,,[email],https://www.atsa-osteo.com,4.0,45,,,80,candidats_sante_appels_multiples,prioritaire,2026-02-23,web_search
+Epitech Paris,ecole_informatique,Paris,"24 rue Pasteur, 94270 Le Kremlin-Bicetre",,,[email],https://www.epitech.eu,3.9,300,,,82,appels_inscription_rush,prioritaire,2026-02-23,web_search
+SUPINFO Paris,ecole_informatique,Paris,"Tour Montparnasse, 33 avenue du Maine, 75015 Paris",,,[email],https://www.supinfo.com,3.5,200,,,72,volume_appels_concurrent,standard,2026-02-23,web_search
+Campus Langues Paris,ecole_langues,Paris,"9 rue de Crimee, 75019 Paris",,,[email],https://www.campuslangues.com,4.2,180,,,86,eleves_pause_dej,prioritaire,2026-02-23,web_search
+Paris Language Institute,ecole_langues,Paris,"15 rue de Tocqueville, 75017 Paris",,,[email],https://www.parislanguageinstitute.com,4.4,50,,,85,eleves_pause_dej,prioritaire,2026-02-23,web_search
+ALIP Paris,ecole_langues,Paris,"21 rue d'Hauteville, 75010 Paris",,,[email],https://www.alipfrance.com,4.3,40,,,82,eleves_pause_dej,prioritaire,2026-02-23,web_search
+LSI Paris,ecole_langues,Paris,"23 rue du Renard, 75004 Paris",,,[email],https://www.lsi.edu,4.1,90,,,80,eleves_pause_dej,prioritaire,2026-02-23,web_search
+Langue Appart Paris,ecole_langues,Paris,"6 rue de Bruxelles, 75009 Paris",,,[email],https://www.langueappart.fr,4.6,35,,,88,eleves_pause_dej,prioritaire,2026-02-23,web_search
+ISCOM Paris,ecole_communication,Paris,"4 cite de Londres, 75009 Paris",,,[email],https://www.iscom.fr,4.0,150,,,82,appels_inscription_rush,prioritaire,2026-02-23,web_search
+EFAP Paris,ecole_communication,Paris,"61-63 rue Pierre Charron, 75008 Paris",,,[email],https://www.efap.com,3.9,120,,,78,appels_inscription_rush,standard,2026-02-23,web_search
+MJM Graphic Design Paris,ecole_design,Paris,"55 avenue du Maine, 75014 Paris",,,[email],https://www.mjm-design.com,3.8,200,,,76,candidats_creatifs_questions,standard,2026-02-23,web_search
+Intuit Lab Paris,ecole_design,Paris,"90 rue de Javel, 75015 Paris",,,[email],https://ecole-intuit-lab.com,4.2,65,,,84,candidats_creatifs_questions,prioritaire,2026-02-23,web_search
+ECV Paris,ecole_design,Paris,"1 rue du Dahomey, 75011 Paris",,,[email],https://www.ecv.fr,4.1,110,,,80,candidats_creatifs_questions,prioritaire,2026-02-23,web_search
+Apertis Conseil,bilan_competences,Paris,"37 rue d'Amsterdam, 75008 Paris",,,[email],https://apertisconseil.com,4.5,30,,,90,reconversion_reponse_immediate,prioritaire,2026-02-23,web_search
+UMANEA Paris,bilan_competences,Paris,"35 bureaux Paris IDF",,,[email],https://www.umanea.fr,4.3,55,,,86,reconversion_reponse_immediate,prioritaire,2026-02-23,web_search
+Conservatoire Marietta Alboni,ecole_musique,Paris,"243 rue de Vaugirard, 75015 Paris",,,[email],https://conservatoirealboni.com,4.4,25,,,78,eleves_appellent_soir,standard,2026-02-23,web_search
+Conservatoire International Musique Paris 16,ecole_musique,Paris,"16 rue Dufrenoy, 75116 Paris",,,[email],https://www.conservatoireparis16.com,4.3,40,,,80,eleves_appellent_soir,prioritaire,2026-02-23,web_search
+CFPM Paris,ecole_musique,Paris,"29 rue des Petites Ecuries, 75010 Paris",,,[email],https://www.cfpmfrance.com,4.0,55,,,76,eleves_appellent_soir,standard,2026-02-23,web_search
+ATLA Paris,ecole_musique,Paris,"12 villa de Guelma, 75018 Paris",,,[email],https://www.atla.fr,4.2,70,,,82,eleves_appellent_soir,prioritaire,2026-02-23,web_search
+CIMP Paris,ecole_musique,Paris,"11 rue Beethoven, 75016 Paris",,,[email],https://www.cimp-paris.fr,4.5,20,,,84,eleves_appellent_soir,prioritaire,2026-02-23,web_search
+Ecole de Commerce de Lyon,ecole_commerce,Lyon,"55 cours Albert Thomas, 69003 Lyon",,,[email],https://ecole-de-commerce-de-lyon.fr,3.8,45,,,74,appels_inscription_rush,standard,2026-02-23,web_search
+CFPM Lyon,ecole_musique,Lyon,"",,,[email],https://www.cfpmfrance.com/cfpm-lyon,4.0,30,,,72,eleves_appellent_soir,standard,2026-02-23,web_search
+Digital Campus Lyon,ecole_informatique,Lyon,"",,,[email],https://www.digital-campus.fr,4.0,80,,,75,appels_inscription_rush,standard,2026-02-23,web_search
