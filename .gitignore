@@ -5,3 +5,9 @@ node_modules/
 .vercel
 .env
 .env.local
+
+# Scripts data (sensitive leads data)
+scripts/*.csv
+scripts/*.json
+scripts/__pycache__/
+scripts/pipeline.log

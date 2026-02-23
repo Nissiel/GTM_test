@@ -12,6 +12,7 @@ interface NavItem {
 
 const NAV_ITEMS: NavItem[] = [
   { href: "/", label: "Dashboard", icon: "🚀" },
+  { href: "/launch", label: "Lancer Campagne", icon: "🎯" },
   { href: "/leads", label: "Leads", icon: "👥", badge: "204" },
   { href: "/campaigns", label: "Campagnes", icon: "📧" },
   { href: "/enrichment", label: "Enrichissement", icon: "🔍" },
@@ -115,10 +116,10 @@ export function Sidebar() {
           style={{ background: "rgba(99,102,241,0.06)" }}
         >
           <p className="text-[10px] font-medium" style={{ color: "var(--accent-light)" }}>
-            Apify: Plan upgrade needed
+            Pipeline: Autonome
           </p>
           <p className="text-[10px] mt-0.5" style={{ color: "var(--muted)" }}>
-            930 queries en attente
+            Scraping + Enrichissement + Upload
           </p>
         </div>
       </div>
